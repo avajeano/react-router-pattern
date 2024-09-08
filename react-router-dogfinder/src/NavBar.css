@@ -1,0 +1,23 @@
+nav {
+    background-color: darkslategray;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  nav a {
+    padding: 0.5em 0;
+    width: 12em;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav a.active {
+    color: yellow;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: lightslategray;
+    text-decoration: none;
+  }
